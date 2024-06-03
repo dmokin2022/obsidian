@@ -6,7 +6,7 @@
       {
         "id": "91063bd616a875a0",
         "type": "tabs",
-        "dimension": 42.03655352480418,
+        "dimension": 43.624161073825505,
         "children": [
           {
             "id": "707d198b902629b5",
@@ -31,30 +31,19 @@
         ]
       },
       {
-        "id": "99eaca6b03a2b014",
+        "id": "881c81608c92aecb",
         "type": "tabs",
-        "dimension": 57.96344647519582,
+        "dimension": 56.375838926174495,
         "children": [
           {
-            "id": "f7cde82a8904b8b9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "65fd5cb1cf7d4c10",
+            "id": "e399636729a02154",
             "type": "leaf",
             "state": {
               "type": "mindmap",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wdm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,6 +173,23 @@
   },
   "active": "707d198b902629b5",
   "lastOpenFiles": [
+    "Словарь/WWDM.md",
+    "Словарь/WDM.md",
+    "[Image](link.png).md",
+    "Картинки/TI-RTOS.jpg",
+    "Картинки/set-lambda-hitting-a-breakpoint-in-a-lambda-function-in-vs-code.png",
+    "Картинки/NMS.jpg",
+    "Картинки/Lattice-Semiconductor-Lattice-Diamond-2016-Offline-Installer-Download-GetintoPC.com_-1024x640.jpg",
+    "Картинки/FreeRTOS_logo_2005.svg.png",
+    "Картинки/free-rtos-logo.jpg",
+    "Картинки/CodeComposerStudio.png",
+    "Картинки/CCS_ScreenShot.png",
+    "Картинки/205403151534.jpg",
+    "Картинки",
+    "Словарь/Схема.canvas",
+    "Словарь/CWDM.md",
+    "Словарь/DWDM.md",
+    "Словарь/OHIO.md",
     "Welcome.md",
     "743091_original.jpg",
     "Модули/ПЛИС карт управления и линейной.md",
@@ -194,28 +201,22 @@
     "home/mplotnikov",
     "home",
     "Словарь/create a link.md",
-    "Словарь/Схема.canvas",
     "Словарь/Мультиплексор.md",
     "Словарь/Физика процесса.md",
-    "Словарь/WDM.md",
     "Словарь/Дисперсия.md",
     "DCM `/` DCU.md",
     "DCM `",
     "DCM / DCU.md",
     "DCM ",
     "Словарь/Δλ.md",
-    "Словарь/WWDM.md",
     "DCM / DCU 1.md",
     "<DCM ",
     "Словарь/Потери.md",
-    "Словарь/OHIO.md",
-    "Словарь/DWDM.md",
     "Словарь/ITU длины волн.md",
     "Словарь/DFB-лазер.md",
     "Словарь/Диапазоны.md",
     "Словарь/Guard Band.md",
     "Словарь/50 GHz.md",
-    "Словарь/SDH.md",
-    "Словарь/Решётка Брэгга.md"
+    "Словарь/SDH.md"
   ]
 }
