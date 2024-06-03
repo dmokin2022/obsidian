@@ -6,7 +6,6 @@
       {
         "id": "91063bd616a875a0",
         "type": "tabs",
-        "dimension": 43.624161073825505,
         "children": [
           {
             "id": "707d198b902629b5",
@@ -14,32 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Модули/ПЛИС карт управления и линейной.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "b702c0db111cdb98",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
       },
       {
-        "id": "881c81608c92aecb",
+        "id": "1afedbed3388d20c",
         "type": "tabs",
-        "dimension": 56.375838926174495,
         "children": [
           {
-            "id": "e399636729a02154",
+            "id": "b702c0db111cdb98",
             "type": "leaf",
             "state": {
-              "type": "mindmap",
+              "type": "graph",
               "state": {}
             }
           }
@@ -109,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Модули/ПЛИС карт управления и линейной.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Модули/ПЛИС карт управления и линейной.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Модули/ПЛИС карт управления и линейной.md"
+                "file": "README.md"
               }
             }
           }
@@ -170,11 +160,39 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "707d198b902629b5",
+  "active": "82d3e52dbe90a52c",
   "lastOpenFiles": [
-    "Словарь/WDM.md",
-    "Словарь/WWDM.md",
+    "Словарь/Водный пик.md",
+    "Словарь/Физика процесса.md",
     "[Image](link.png).md",
+    "Словарь/Демультиплексор.md",
+    "Словарь/DGD.md",
+    "Словарь/PDL.md",
+    "Словарь/BER.md",
+    "Словарь/Коррекция.md",
+    "Словарь/CFEC.md",
+    "Словарь/OFEC.md",
+    "Словарь/WDM.md",
+    "Словарь/SRS.md",
+    "Словарь/Δλ.md",
+    "Словарь/Решение.md",
+    "Словарь/Помехи.md",
+    "Словарь/FWM.md",
+    "Словарь/Потери.md",
+    "Словарь/Затухание.md",
+    "Словарь/TDFA.md",
+    "Словарь/EDFA (OA).md",
+    "Словарь/ITU длины волн.md",
+    "Словарь/Излучатель.md",
+    "Словарь/200 GHz.md",
+    "Словарь/Диапазоны.md",
+    "Словарь/Supervisor Channel.md",
+    "Словарь/C-Band.md",
+    "DCM ",
+    "'DCM ",
+    "\"DCM ",
+    "DCM `",
+    "Словарь/Схема.canvas",
     "Картинки/TI-RTOS.jpg",
     "Картинки/set-lambda-hitting-a-breakpoint-in-a-lambda-function-in-vs-code.png",
     "Картинки/NMS.jpg",
@@ -185,37 +203,11 @@
     "Картинки/CCS_ScreenShot.png",
     "Картинки/205403151534.jpg",
     "Картинки",
-    "Словарь/Схема.canvas",
-    "Словарь/CWDM.md",
-    "Словарь/DWDM.md",
-    "Словарь/OHIO.md",
-    "Welcome.md",
     "743091_original.jpg",
-    "Модули/ПЛИС карт управления и линейной.md",
-    "Модули/Версионный контроль прошивок.md",
-    "<DCM / DCU>.md",
-    "home/mplotnikov/Документы/obsidian-docs/Словарь.md",
     "home/mplotnikov/Документы/obsidian-docs",
     "home/mplotnikov/Документы",
     "home/mplotnikov",
     "home",
-    "Словарь/create a link.md",
-    "Словарь/Мультиплексор.md",
-    "Словарь/Физика процесса.md",
-    "Словарь/Дисперсия.md",
-    "DCM `/` DCU.md",
-    "DCM `",
-    "DCM / DCU.md",
-    "DCM ",
-    "Словарь/Δλ.md",
-    "DCM / DCU 1.md",
-    "<DCM ",
-    "Словарь/Потери.md",
-    "Словарь/ITU длины волн.md",
-    "Словарь/DFB-лазер.md",
-    "Словарь/Диапазоны.md",
-    "Словарь/Guard Band.md",
-    "Словарь/50 GHz.md",
-    "Словарь/SDH.md"
+    "<DCM "
   ]
 }
