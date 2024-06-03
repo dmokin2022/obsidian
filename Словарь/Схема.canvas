@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"b7978d73347ade07","type":"text","text":"[[WDM]]","x":-140,"y":-440,"width":125,"height":51},
+		{"id":"dd04da25d1063618","type":"text","text":"[[WWDM]]","x":-140,"y":-300,"width":125,"height":50}
+	],
+	"edges":[
+		{"id":"7a5fd64fd23dae41","fromNode":"b7978d73347ade07","fromSide":"bottom","toNode":"dd04da25d1063618","toSide":"top"}
+	]
+}

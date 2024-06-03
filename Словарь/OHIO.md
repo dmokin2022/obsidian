@@ -1,0 +1,4 @@
+8.5 OHIO INTERFACE
+The Overhead Input/Output (OHIO) Interface is made available to drop/insert OTN Overhead on both the ingress and egress datapath for up to 4 Host/Client signals and the FlexO/ZR frame. Figure 27 identifies the location of these insertion/extraction point in the TX and RX datapath.
+The DP04CFP2 supports two classes of optical transport units (OTU); the OTUk and OTUCn. It also supports the FlexO-x framing structure for the transport of OTUCn signals.
+Accessing OxU[k,Flex,Cn] and FlexO-x overhead can be done either through the OHIO interface, or through the MDIO Interface. The transfer rates over the OHIO is 4Gb/Sec whereas MDIO is very slow (kb/second). A key function of the OHIO interface is dynamic access to the FlexO-x FCC, and the OxUC[k,Flex,Cn] GCC0/1/2 communication channels.

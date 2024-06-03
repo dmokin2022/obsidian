@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "e7b1a8545d313d7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "91063bd616a875a0",
+        "type": "tabs",
+        "dimension": 42.03655352480418,
+        "children": [
+          {
+            "id": "707d198b902629b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Словарь/WDM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b702c0db111cdb98",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "99eaca6b03a2b014",
+        "type": "tabs",
+        "dimension": 57.96344647519582,
+        "children": [
+          {
+            "id": "f7cde82a8904b8b9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "65fd5cb1cf7d4c10",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2bf707899060fb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9e1eb6ad22b2283",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82d3e52dbe90a52c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc4ea1bfaddb9a07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d9bb5001125ce03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "73f69e5e546c3742",
+    "type": "split",
+    "children": [
+      {
+        "id": "739f5d8f3ace9e5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b573eae06ac83b8e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Словарь/WDM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb1d337f9a90fb95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Словарь/WDM.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "955e2cd5cdb850fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b63fba47ca153031",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Словарь/WDM.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "707d198b902629b5",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "743091_original.jpg",
+    "Модули/ПЛИС карт управления и линейной.md",
+    "Модули/Версионный контроль прошивок.md",
+    "<DCM / DCU>.md",
+    "home/mplotnikov/Документы/obsidian-docs/Словарь.md",
+    "home/mplotnikov/Документы/obsidian-docs",
+    "home/mplotnikov/Документы",
+    "home/mplotnikov",
+    "home",
+    "Словарь/create a link.md",
+    "Словарь/Схема.canvas",
+    "Словарь/Мультиплексор.md",
+    "Словарь/Физика процесса.md",
+    "Словарь/WDM.md",
+    "Словарь/Дисперсия.md",
+    "DCM `/` DCU.md",
+    "DCM `",
+    "DCM / DCU.md",
+    "DCM ",
+    "Словарь/Δλ.md",
+    "Словарь/WWDM.md",
+    "DCM / DCU 1.md",
+    "<DCM ",
+    "Словарь/Потери.md",
+    "Словарь/OHIO.md",
+    "Словарь/DWDM.md",
+    "Словарь/ITU длины волн.md",
+    "Словарь/DFB-лазер.md",
+    "Словарь/Диапазоны.md",
+    "Словарь/Guard Band.md",
+    "Словарь/50 GHz.md",
+    "Словарь/SDH.md",
+    "Словарь/Решётка Брэгга.md"
+  ]
+}
