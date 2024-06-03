@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Словарь/WDM.md",
+                "file": "Модули/ПЛИС карт управления и линейной.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Словарь/WDM.md",
+                "file": "Модули/ПЛИС карт управления и линейной.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Словарь/WDM.md",
+                "file": "Модули/ПЛИС карт управления и линейной.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Словарь/WDM.md"
+                "file": "Модули/ПЛИС карт управления и линейной.md"
               }
             }
           }
@@ -173,8 +172,8 @@
   },
   "active": "707d198b902629b5",
   "lastOpenFiles": [
-    "Словарь/WWDM.md",
     "Словарь/WDM.md",
+    "Словарь/WWDM.md",
     "[Image](link.png).md",
     "Картинки/TI-RTOS.jpg",
     "Картинки/set-lambda-hitting-a-breakpoint-in-a-lambda-function-in-vs-code.png",
