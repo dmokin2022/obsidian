@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "707d198b902629b5",
+            "id": "b702c0db111cdb98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Словарь/WDM.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "1afedbed3388d20c",
+        "id": "e3e68cc9298a5a5f",
         "type": "tabs",
         "children": [
           {
-            "id": "b702c0db111cdb98",
+            "id": "06eda9ad61790b2c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Словарь/WDM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Словарь/WDM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Словарь/WDM.md"
               }
             }
           }
@@ -160,34 +160,34 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "82d3e52dbe90a52c",
+  "active": "b702c0db111cdb98",
   "lastOpenFiles": [
-    "Словарь/Водный пик.md",
     "Словарь/Физика процесса.md",
-    "[Image](link.png).md",
-    "Словарь/Демультиплексор.md",
-    "Словарь/DGD.md",
-    "Словарь/PDL.md",
-    "Словарь/BER.md",
-    "Словарь/Коррекция.md",
-    "Словарь/CFEC.md",
-    "Словарь/OFEC.md",
-    "Словарь/WDM.md",
-    "Словарь/SRS.md",
-    "Словарь/Δλ.md",
-    "Словарь/Решение.md",
-    "Словарь/Помехи.md",
-    "Словарь/FWM.md",
-    "Словарь/Потери.md",
-    "Словарь/Затухание.md",
-    "Словарь/TDFA.md",
-    "Словарь/EDFA (OA).md",
-    "Словарь/ITU длины волн.md",
+    "Словарь/Водный пик.md",
     "Словарь/Излучатель.md",
-    "Словарь/200 GHz.md",
+    "Словарь/ITU длины волн.md",
     "Словарь/Диапазоны.md",
+    "Словарь/Красный.md",
     "Словарь/Supervisor Channel.md",
-    "Словарь/C-Band.md",
+    "Словарь/WDM.md",
+    "Словарь/Модуляция.md",
+    "Словарь/QPSK.md",
+    "Словарь/FWM.md",
+    "Словарь/VOA.md",
+    "Словарь/DWDM.md",
+    "Словарь/SNR.md",
+    "Словарь/DGD.md",
+    "Словарь/PMA.md",
+    "Словарь/TOF.md",
+    "Словарь/16QAM.md",
+    "Словарь/8QAM.md",
+    "Словарь/DQPSK.md",
+    "Словарь/Стандарты.md",
+    "Словарь/OpenROADM.md",
+    "Словарь/OpenZR+.md",
+    "Словарь/FOIC.md",
+    "Словарь/niTLA.md",
+    "Словарь/TIA.md",
     "DCM ",
     "'DCM ",
     "\"DCM ",
