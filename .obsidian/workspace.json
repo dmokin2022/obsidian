@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Словарь/WDM.md",
+                "file": "Словарь/PDL.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Словарь/WDM.md",
+                "file": "Словарь/PDL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Словарь/WDM.md",
+                "file": "Словарь/PDL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Словарь/WDM.md"
+                "file": "Словарь/PDL.md"
               }
             }
           }
@@ -162,6 +162,15 @@
   },
   "active": "b702c0db111cdb98",
   "lastOpenFiles": [
+    "Словарь/Документация Acacia.md",
+    "Словарь/Протоколы.md",
+    "Словарь/OTS.md",
+    "Словарь/OMS.md",
+    "Словарь/ODU.md",
+    "Словарь/OPU.md",
+    "Словарь/OTN.md",
+    "Словарь/OADM.md",
+    "Словарь/WDM.md",
     "Словарь/Физика процесса.md",
     "Словарь/Водный пик.md",
     "Словарь/Излучатель.md",
@@ -169,7 +178,6 @@
     "Словарь/Диапазоны.md",
     "Словарь/Красный.md",
     "Словарь/Supervisor Channel.md",
-    "Словарь/WDM.md",
     "Словарь/Модуляция.md",
     "Словарь/QPSK.md",
     "Словарь/FWM.md",
@@ -180,14 +188,6 @@
     "Словарь/PMA.md",
     "Словарь/TOF.md",
     "Словарь/16QAM.md",
-    "Словарь/8QAM.md",
-    "Словарь/DQPSK.md",
-    "Словарь/Стандарты.md",
-    "Словарь/OpenROADM.md",
-    "Словарь/OpenZR+.md",
-    "Словарь/FOIC.md",
-    "Словарь/niTLA.md",
-    "Словарь/TIA.md",
     "DCM ",
     "'DCM ",
     "\"DCM ",
