@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"e6212506a5050529","type":"text","text":"[[QSFP]] ![[QSFP.png]]\n","x":-460,"y":-100,"width":250,"height":80},
+		{"id":"dc79535958c42db1","type":"text","text":"[[QSFP]] ![[QSFP.png]]","x":-460,"y":0,"width":250,"height":80},
+		{"id":"354941162db6aae5","type":"text","text":"[[QSFP]]![[QSFP.png]]","x":-460,"y":100,"width":250,"height":80},
+		{"id":"1c5b39ccf4254e78","type":"text","text":"[[QSFP]]![[QSFP.png]]","x":-460,"y":200,"width":250,"height":80},
+		{"id":"99ae18acf7e61898","type":"text","text":"DSP INPHI\n![[DSP INPHI.png]]","x":-60,"y":-100,"width":660,"height":380},
+		{"id":"84fee6a2599f356f","type":"text","text":"Процессор\n![[chip4.jpg]]","x":105,"y":-560,"width":330,"height":340},
+		{"id":"7ae64f6aa45e6cef","type":"text","text":"QSFP-DD Acacia port \n![[Acacia.png]]","x":760,"y":-170,"width":760,"height":520}
+	],
+	"edges":[
+		{"id":"e6050dee4800a603","fromNode":"e6212506a5050529","fromSide":"right","toNode":"99ae18acf7e61898","toSide":"left","fromEnd":"arrow"},
+		{"id":"66a3b99643e13fee","fromNode":"dc79535958c42db1","fromSide":"right","toNode":"99ae18acf7e61898","toSide":"left","fromEnd":"arrow"},
+		{"id":"a86191bdbe122b8c","fromNode":"354941162db6aae5","fromSide":"right","toNode":"99ae18acf7e61898","toSide":"left","fromEnd":"arrow"},
+		{"id":"b1af79425f079eb5","fromNode":"99ae18acf7e61898","fromSide":"right","toNode":"7ae64f6aa45e6cef","toSide":"left","fromEnd":"arrow"},
+		{"id":"9e16b133625a33bc","fromNode":"1c5b39ccf4254e78","fromSide":"right","toNode":"99ae18acf7e61898","toSide":"left","fromEnd":"arrow"},
+		{"id":"3422805b8ae026ca","fromNode":"84fee6a2599f356f","fromSide":"left","toNode":"e6212506a5050529","toSide":"top"},
+		{"id":"597434ee03e3a190","fromNode":"84fee6a2599f356f","fromSide":"bottom","toNode":"99ae18acf7e61898","toSide":"top"},
+		{"id":"7b985a255aab4474","fromNode":"84fee6a2599f356f","fromSide":"right","toNode":"7ae64f6aa45e6cef","toSide":"top"}
+	]
+}
