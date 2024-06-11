@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Интерфейсы/UART/UART (COM-порт).md",
+                "file": "Интерфейсы/Проводные/UART/UART (COM-порт).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Отладчики программаторы/OpenOCD (Open On-Chip Debugger).md",
+                "file": "IDE/PyCharm.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Фреймворки/Arduino/Arduino.md",
+                "file": "Интерфейсы/Беспроводные/nRF24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b53af982e985574b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Интерфейсы/Проводные/CAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8a1d1d8173a98a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Интерфейсы/Преобразователи/CH340E.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -73,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "com-",
+                "query": "I2c",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Отладчики программаторы/OpenOCD (Open On-Chip Debugger).md",
+                "file": "Интерфейсы/Преобразователи/CH340E.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Отладчики программаторы/OpenOCD (Open On-Chip Debugger).md",
+                "file": "Интерфейсы/Преобразователи/CH340E.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Отладчики программаторы/OpenOCD (Open On-Chip Debugger).md"
+                "file": "Интерфейсы/Преобразователи/CH340E.md"
               }
             }
           }
@@ -172,46 +195,46 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6ffd66d5f6f95b5f",
+  "active": "b8a1d1d8173a98a7",
   "lastOpenFiles": [
-    "Интерфейсы/UART/UART (COM-порт).md",
-    "Процессоры контроллеры/Модели/Freescale T1024NS E7M0A UYNH2138.md",
-    "Процессоры контроллеры/Модели/Texas Instruments  TM4C129 (Tiva C).md",
-    "Процессоры контроллеры/Модели/RP2040 (Raspberry Pi).md",
-    "Процессоры контроллеры/Модели/Microchip PIC.md",
-    "Процессоры контроллеры/Модели/MCS51.md",
-    "Процессоры контроллеры/Модели/ESP32.md",
-    "Отладчики программаторы/OpenOCD (Open On-Chip Debugger).md",
-    "Отладчики программаторы/J-Link.md",
-    "Процессоры контроллеры/Модели/Atmel AVR.md",
-    "Процессоры контроллеры/Модели/platformio.ini.md",
-    "Наше изделие DWDM/2 Карта управления/Карта управления.md",
+    "Интерфейсы/Преобразователи/Преобразователи USB - I2C, SPI, UART, JTAG.md",
+    "Интерфейсы/Преобразователи/Aardvark TP240141.md",
+    "Интерфейсы/Преобразователи/CH341A - CH347.md",
+    "Интерфейсы/Преобразователи/FTDI.md",
+    "README.md",
+    "Преобразователи USB - I2C.md",
+    "BEI Backward Error Indication.md",
+    "Наше изделие DWDM/1 Линейная карта/Компоненты/Клиентские модули QSFP.md",
+    "Наше изделие DWDM/1 Линейная карта/Компоненты/Линейный модуль Acacia DP04CFP2-Mxx.md",
     "Наше изделие DWDM/1 Линейная карта/Компоненты/Микроконтроллер.md",
+    "Наше изделие DWDM/1 Линейная карта/Компоненты/ПЛИС (CPLD).md",
+    "Наше изделие DWDM/1 Линейная карта/Компоненты/ПЛИС карт управления и линейной.md",
+    "Наше изделие DWDM/1 Линейная карта/Компоненты/DSP INPHI INPHI IN115025 50.md",
+    "Наше изделие DWDM/1 Линейная карта/Схема.canvas",
+    "Аппаратные модули/QSFP.md",
+    "Аппаратные модули/CFP2.md",
+    "Интерфейсы/Проводные/I2C.md",
+    "Интерфейсы/Проводные/Проводные.md",
+    "Наше изделие DWDM/2 Карта управления/Карта управления.md",
+    "Наше изделие DWDM/1 Линейная карта/Линейная карта.md",
+    "Интерфейсы/Проводные/UART/RS-485.md",
+    "Интерфейсы/Проводные/UART/RS-232.md",
+    "Интерфейсы/Проводные/UART/UART (COM-порт).md",
+    "Интерфейсы/Интерфейсы.md",
+    "Интерфейсы/Беспроводные/Беспроводные.md",
+    "Интерфейсы/Без названия.md",
+    "Интерфейсы/Проводные/MDIO.md",
+    "Интерфейсы/Беспроводные",
+    "Интерфейсы/Проводные",
     "Отладчики программаторы",
     "Без названия",
-    "Фреймворки/Arduino/Arduino.md",
-    "Фреймворки/libopen3c/libopen3c.md",
-    "IDE/Eclipse/Code Composer Studio.md",
-    "IDE/Keil uVision/Keil uVision.md",
-    "IDE/IAR Embedded Workbench/IAR Embedded Workbenck.md",
-    "IDE/Segger Embedded Studio.md",
-    "IDE/VS Code/PlatformIO.md",
-    "Операционные системы/RTOS/TI-RTOS/TI-RTOS.md",
     "Фреймворки/libopen3c",
     "Фреймворки/Arduino",
     "Фреймворки",
-    "Операционные системы/RTOS/FreeRTOS/FreeRTOS.md",
     "Операционные системы/RTOS/TI-RTOS",
     "Операционные системы/RTOS/FreeRTOS",
     "Операционные системы/RTOS",
-    "Операционные системы/Linux",
-    "Операционные системы/Windows",
-    "[Установка.md",
-    "IDE/VS Code/VS Code.md",
-    "Наше изделие DWDM/1 Линейная карта/Компоненты/ПЛИС (CPLD).md",
-    "Наше изделие DWDM/1 Линейная карта/Компоненты/ПЛИС карт управления и линейной.md",
     "Словарь/Физика процесса/Без названия.canvas",
-    "Наше изделие DWDM/1 Линейная карта/Схема.canvas",
     "Картинки/Acacia.png",
     "Картинки/QSFP.png",
     "Картинки/DSP INPHI.png",
