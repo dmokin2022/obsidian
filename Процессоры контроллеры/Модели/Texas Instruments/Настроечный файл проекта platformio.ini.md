@@ -1,0 +1,53 @@
+```
+; PlatformIO Project Configuration File
+
+;
+
+;   Build options: build flags, source filter
+
+;   Upload options: custom upload port, speed and extra flags
+
+;   Library options: dependencies, extra library storages
+
+;   Advanced options: extra scripting
+
+;
+
+; Please visit documentation for the other options and examples
+
+; https://docs.platformio.org/page/projectconf.html
+
+
+
+[env:lptm4c1294ncpdt]
+
+platform = titiva
+
+board = lptm4c1294ncpdt
+
+;board = LPLM4F120H5QR
+
+framework = arduino
+
+  
+
+monitor_speed = 115200
+
+monitor_port = COM12
+
+upload_port = COM4
+
+  
+
+debug_tool = ti-icdi
+
+upload_protocol = ti-icdi
+
+  
+
+lib_deps =
+
+    bblanchon/ArduinoJson@^6.21.3
+```
+
+[Настроечный файл проекта platformio.ini](C:\Projects\Obsidian\Процессоры%20контроллеры\Модели\Texas%20Instruments\platformio.ini)

@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "76ad31fe45f98cea",
+        "id": "6bf65065292eddca",
         "type": "tabs",
         "children": [
           {
-            "id": "32cbb28bf6e673e2",
+            "id": "1faa0739cf7d0821",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Интерфейсы/Проводные/UART/UART (COM-порт).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ffd66d5f6f95b5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IDE/PyCharm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6278eac21eed9d1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Интерфейсы/Беспроводные/nRF24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b53af982e985574b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Интерфейсы/Проводные/CAN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8a1d1d8173a98a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BEI Backward Error Indication.md",
+                "file": "Процессоры контроллеры/Модели/Texas Instruments  TM4C129 (Tiva C).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "I2c",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEI Backward Error Indication.md",
+                "file": "Процессоры контроллеры/Модели/Texas Instruments  TM4C129 (Tiva C).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEI Backward Error Indication.md",
+                "file": "Процессоры контроллеры/Модели/Texas Instruments  TM4C129 (Tiva C).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEI Backward Error Indication.md"
+                "file": "Процессоры контроллеры/Модели/Texas Instruments  TM4C129 (Tiva C).md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,57 +146,58 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b8a1d1d8173a98a7",
+  "active": "1faa0739cf7d0821",
   "lastOpenFiles": [
-    "Наше изделие DWDM/1 Линейная карта/Компоненты/Без названия.canvas",
-    "cmd.md",
-    "Наше изделие DWDM/1 Линейная карта/Компоненты/DSP INPHI INPHI IN115025 50.md",
-    "Наше изделие DWDM/1 Линейная карта/Компоненты/Микроконтроллер.md",
-    "IDE/Segger Embedded Studio.md",
-    "Наше изделие DWDM/1 Линейная карта/Линейная карта.md",
-    "Наше изделие DWDM/1 Линейная карта/Схема.canvas",
-    "Наше изделие DWDM/1 Линейная карта/Компоненты/ПЛИС (CPLD).md",
-    "Наше изделие DWDM/1 Линейная карта/Компоненты/ПЛИС карт управления и линейной.md",
-    "Наше изделие DWDM/1 Линейная карта/Компоненты/Линейный модуль Acacia DP04CFP2-Mxx.md",
-    "Наше изделие DWDM/1 Линейная карта/Компоненты/Клиентские модули QSFP.md",
-    "Интерфейсы/Преобразователи/Преобразователи USB - I2C, SPI, UART, JTAG.md",
-    "Интерфейсы/Преобразователи/CH340E.md",
-    "Интерфейсы/Преобразователи/Aardvark TP240141.md",
+    "Процессоры контроллеры/Модели/Texas Instruments/Пустой заголовочный файл SPI_h.jpg",
+    "Процессоры контроллеры/Модели/Texas Instruments/Проблема при первом запуске.md",
+    "Процессоры контроллеры/Модели/Texas Instruments/Поморгать светодиодом.md",
+    "Процессоры контроллеры/Модели/Texas Instruments/Отсутствие файла SPI_h.jpg",
+    "Процессоры контроллеры/Модели/Texas Instruments/Настроечный файл проекта platformio.ini.md",
+    "Процессоры контроллеры/Модели/Texas Instruments/Evaluation Board  (Launch Pad) EK-TM4C1294XL.md",
+    "Оргвопросы/Быстрый старт.md",
+    "Наше изделие DWDM/2 Карта управления/Камера.xmind",
+    "Языки программирования/C C++/Code Style.xmind",
+    "Оргвопросы/НИЦ Технологии Отделы.xmind",
+    "Наше изделие DWDM/2 Карта управления/2. Камера. Прошивка. Отладка.xmind",
+    "Языки программирования/C C++/Кросс компиляция.xmind",
+    "Оргвопросы/Структура организации.xmind",
+    "Оргвопросы/Быстрый старт.xmind",
+    "Языки программирования/Git/Git.md",
+    "Оргвопросы",
+    "IDE/Qt/XMind по Qt.md",
+    "Интерфейсы/Описание полей.xmind",
+    "IDE/Qt/Настройка внешнего вида Qt.md",
+    "IDE/Qt/Установка Qt под Linux.md",
+    "Языки программирования/C C++/CodeStyle.md",
+    "Языки программирования/C C++/C C++.md",
+    "Операционные системы/Linux/Linux.md",
+    "Интерфейсы/Проводные/I2C/ArduinoI2CConnect.xmind",
+    "Отсутствие файла SPI_h 1.jpg",
+    "Отсутствие файла SPI_h.jpg",
+    "Где взять файл SPI_h.jpg",
+    "IDE/VS Code/Настройка проекта на C C++ 1.md",
+    "IDE/Qt/Установка Qt на Windows.md",
+    "IDE/VS Code/Настройка проекта на C C++ 2 упрощённый вариант.md",
+    "IDE/VS Code/VS Code.md",
     "Интерфейсы/Преобразователи/CH341A - CH347.md",
-    "Интерфейсы/Преобразователи/FTDI.md",
-    "README.md",
-    "Преобразователи USB - I2C.md",
-    "BEI Backward Error Indication.md",
-    "Аппаратные модули/QSFP.md",
-    "Аппаратные модули/CFP2.md",
-    "Интерфейсы/Проводные/I2C.md",
-    "Интерфейсы/Проводные/Проводные.md",
-    "Наше изделие DWDM/2 Карта управления/Карта управления.md",
-    "Интерфейсы/Проводные/UART/RS-485.md",
-    "Интерфейсы/Проводные/UART/RS-232.md",
-    "Интерфейсы/Проводные/UART/UART (COM-порт).md",
-    "Интерфейсы/Беспроводные",
-    "Интерфейсы/Проводные",
-    "Отладчики программаторы",
-    "Без названия",
-    "Фреймворки/libopen3c",
-    "Фреймворки/Arduino",
-    "Фреймворки",
-    "Операционные системы/RTOS/TI-RTOS",
-    "Операционные системы/RTOS/FreeRTOS",
-    "Операционные системы/RTOS",
+    "Интерфейсы/Преобразователи/Преобразователи USB - I2C, SPI, UART, JTAG.md",
+    "IDE/Eclipse/Code Composer Studio.md",
+    "IDE/Eclipse/Eclipse. Настройки интерфейса.md",
+    "IDE/VS Code/PlatformIO.md",
+    "Процессоры контроллеры/Модели/Texas Instruments  TM4C129 (Tiva C).md",
+    "Процессоры контроллеры/Модели/platformio.ini.md",
+    "Obsidian/Процессоры контроллеры/Модели/Texas Instruments/platformio.ini.md",
+    "IDE/VS Code/Создание проекта под VS Code с CMake.md",
+    "Pasted image 20240731131023.png",
+    "Пустой заголовочный файл SPI_h.jpg",
+    "Наше изделие DWDM/1 Линейная карта/Аппаратные модули/Без названия.canvas",
+    "Наше изделие DWDM/1 Линейная карта/Схема.canvas",
+    "Наше изделие DWDM/1 Линейная карта/Компоненты/Без названия.canvas",
     "Словарь/Физика процесса/Без названия.canvas",
     "Картинки/Acacia.png",
     "Картинки/QSFP.png",
     "Картинки/DSP INPHI.png",
-    "Картинки/5fc1j1fqatuqi263v0iup9sjlj.png",
-    "Картинки/3og8pco2ntl7u5j3hgkbrjh1ei.png",
-    "Картинки/1sgoq59duoh15d1oe4m3v64mqu.png",
-    "Картинки/5fqkhm1df5h2lcc4hs7eemmt4i.jpg",
     "Словарь/Схема.canvas",
-    "Картинки/CodeComposerStudio.png",
-    "Картинки/CCS_ScreenShot.png",
-    "Картинки/ПО Lattice Diamond.png",
     "Без названия.canvas",
     "Без названия 3.canvas",
     "Без названия 2.canvas",
