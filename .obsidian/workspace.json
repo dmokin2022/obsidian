@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8599ac8ef776fc1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDE/VS Code/PlatformIO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "I2c",
+                "query": "VS Code",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEI Backward Error Indication.md",
+                "file": "IDE/VS Code/PlatformIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEI Backward Error Indication.md",
+                "file": "IDE/VS Code/PlatformIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEI Backward Error Indication.md"
+                "file": "IDE/VS Code/PlatformIO.md"
               }
             }
           }
@@ -195,8 +207,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b8a1d1d8173a98a7",
+  "active": "8599ac8ef776fc1b",
   "lastOpenFiles": [
+    "IDE/VS Code/Настройка проекта на C C++ 1.md",
+    "IDE/VS Code/Настройка проекта на C C++ 2 упрощённый вариант.md",
+    "IDE/VS Code/PlatformIO.md",
+    "IDE/VS Code/VS Code.md",
+    "Наше изделие DWDM/Наше изделие.md",
+    "BEI Backward Error Indication.md",
+    "Аппаратные модули/Версионный контроль прошивок.md",
+    "Аппаратные модули/CFP2.md",
+    "Аппаратные модули/QSFP.md",
+    "Аппаратные модули/QSFP-DD.md",
+    "Аппаратные модули/SFP.md",
     "Наше изделие DWDM/1 Линейная карта/Компоненты/Без названия.canvas",
     "cmd.md",
     "Наше изделие DWDM/1 Линейная карта/Компоненты/DSP INPHI INPHI IN115025 50.md",
@@ -214,16 +237,6 @@
     "Интерфейсы/Преобразователи/CH341A - CH347.md",
     "Интерфейсы/Преобразователи/FTDI.md",
     "README.md",
-    "Преобразователи USB - I2C.md",
-    "BEI Backward Error Indication.md",
-    "Аппаратные модули/QSFP.md",
-    "Аппаратные модули/CFP2.md",
-    "Интерфейсы/Проводные/I2C.md",
-    "Интерфейсы/Проводные/Проводные.md",
-    "Наше изделие DWDM/2 Карта управления/Карта управления.md",
-    "Интерфейсы/Проводные/UART/RS-485.md",
-    "Интерфейсы/Проводные/UART/RS-232.md",
-    "Интерфейсы/Проводные/UART/UART (COM-порт).md",
     "Интерфейсы/Беспроводные",
     "Интерфейсы/Проводные",
     "Отладчики программаторы",
