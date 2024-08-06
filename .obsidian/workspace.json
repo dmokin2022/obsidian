@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Процессоры контроллеры/Модели/Texas Instruments/Texas Instruments  TM4C129 (Tiva C).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Проб",
+                "query": "ch341",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Процессоры контроллеры/Модели/Texas Instruments/Texas Instruments  TM4C129 (Tiva C).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Процессоры контроллеры/Модели/Texas Instruments/Texas Instruments  TM4C129 (Tiva C).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Процессоры контроллеры/Модели/Texas Instruments/Texas Instruments  TM4C129 (Tiva C).md"
               }
             }
           }
@@ -148,21 +148,41 @@
   },
   "active": "7f6cdf21f42b9a32",
   "lastOpenFiles": [
-    "Процессоры контроллеры/Модели/Texas Instruments/Проблема при первом запуске.md",
+    "Процессоры контроллеры/Архитектуры/Процессорные архитектуры.md",
+    "IDE/VS Code/Настройка проекта на C C++ 2 упрощённый вариант.md",
+    "IDE/VS Code/Настройка проекта на C C++ 1.md",
+    "IDE/VS Code/PlatformIO.md",
+    "IDE/VS Code/VS Code.md",
+    "Процессоры контроллеры/Модели/Texas Instruments/Проблема при первом запуске проекта TivaC в VS Code PlatformIO.md",
+    "Интерфейсы/Преобразователи/CH341A - CH347.md",
+    "Интерфейсы/Преобразователи/Преобразователи USB - I2C, SPI, UART, JTAG.md",
+    "Интерфейсы/Преобразователи/README.md",
+    "Интерфейсы/Преобразователи/CH341PAR_LINUX.ZIP",
+    "Интерфейсы/Проводные/I2C/PC CH341.md",
+    "Интерфейсы/Проводные/I2C.md",
+    "Языки программирования/C C++/C C++.md",
+    "Языки программирования/C C++/Code Style C++.xmind",
+    "Языки программирования/C C++/Вопросы на собеседовании по C++.xmind",
+    "Языки программирования/C C++/CodeStyle для проектов на C++.md",
+    "Наше изделие DWDM/1 Линейная карта/Линейная карта.md",
+    "Наше изделие DWDM/1 Линейная карта/Схема.canvas",
+    "IDE/IDE.md",
+    "IDE/CodeWarrior for PowerPC.md",
+    "Процессоры контроллеры/Модели/Texas Instruments/platformio.ini.md",
+    "Оргвопросы/Быстрый старт.md",
+    "IDE/Qt/XMind по Qt.md",
+    "IDE/Qt/Установка Qt под Linux.md",
+    "IDE/Qt/Установка Qt на Windows.md",
+    "IDE/Qt/Настройка внешнего вида Qt.md",
+    "README.md",
+    "IDE/PyCharm/PyCharm.md",
+    "IDE/PyCharm",
+    "IDE/Segger Embedded Studio/Segger Embedded Studio.md",
     "IDE/VS Code/Pasted image 20240731131023.png",
     "Процессоры контроллеры/Модели/Texas Instruments/Отсутствие файла SPI_h 1.jpg",
     "Процессоры контроллеры/Модели/Texas Instruments/Где взять файл SPI_h.jpg",
-    "IDE/VS Code/VS Code.md",
-    "IDE/VS Code/PlatformIO.md",
     "IDE/VS Code/Создание проекта под VS Code с CMake.md",
-    "IDE/VS Code/Настройка проекта на C C++ 2 упрощённый вариант.md",
-    "IDE/VS Code/Настройка проекта на C C++ 1.md",
-    "Процессоры контроллеры/Модели/Texas Instruments/Texas Instruments  TM4C129 (Tiva C).md",
-    "Процессоры контроллеры/Модели/Atmel AVR.md",
-    "Процессоры контроллеры/Модели/Texas Instruments/Evaluation Board  (Launch Pad) EK-TM4C1294XL.md",
     "Процессоры контроллеры/Модели/Texas Instruments/Пустой заголовочный файл SPI_h.jpg",
-    "Процессоры контроллеры/Модели/Texas Instruments/Поморгать светодиодом.md",
-    "Процессоры контроллеры/Модели/Texas Instruments/Отсутствие файла SPI_h.jpg",
-    "Процессоры контроллеры/Модели/Texas Instruments/Настроечный файл проекта platformio.ini.md"
+    "Процессоры контроллеры/Модели/Texas Instruments/Отсутствие файла SPI_h.jpg"
   ]
 }
